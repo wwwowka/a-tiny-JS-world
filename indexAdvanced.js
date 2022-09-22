@@ -1,4 +1,4 @@
-import { print } from '/js/lib.js';
+import { print } from './js/lib.js';
 /* Refer to https://github.com/OleksiyRudenko/a-tiny-JS-world for the task details
    Complete the below for code reviewers' convenience:
 
